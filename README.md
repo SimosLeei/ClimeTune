@@ -4,3 +4,13 @@
 ## UI - Home Screen
 
 ![Home Screen](https://github.com/SimosLeei/ClimeTune/blob/master/Screenshots/TracklistTab.png)
+The first of the 4 tabs- fragments
+
+## UI Cycle
+![Home Screen](https://github.com/SimosLeei/ClimeTune/blob/master/Screenshots/Cycle.png)
+
+## Play Activity/Background Service
+![Home Screen](https://github.com/SimosLeei/ClimeTune/blob/master/Screenshots/FinalRes.png)
+
+## Youtube Fragment/List Suggestion
+![Home Screen](https://github.com/SimosLeei/ClimeTune/blob/master/Screenshots/4th%20tab.png)
