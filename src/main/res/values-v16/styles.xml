@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="fontstyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.TabWidget">
+        <item name="android:fontFamily">@font/liquidrom</item>
+    </style>
+</resources>

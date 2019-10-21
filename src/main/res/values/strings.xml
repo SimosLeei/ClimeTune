@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Clime Tune</string>
+    <string name="tab_text_1">Tracks</string>
+    <string name="tab_text_2">Albums</string>
+    <string name="tab_text_3">Artists</string>
+    <string name="tab_text_4">WeatherList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="youtube_key">AIzaSyDDzyaGRaMCRzf3_vo58bzaCFMxDvlrexY</string>
+
+    <string name="action_example">Example action</string>
+</resources>

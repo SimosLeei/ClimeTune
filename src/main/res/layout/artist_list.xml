@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_main"
+    xmlns:tool="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AlbumContent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Toolbar
+            android:id="@+id/Toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:targetApi="lollipop">
+
+            <TextView
+                android:id="@+id/ArtistName_In_ArtistContent"
+                android:textAlignment="center"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </Toolbar>
+
+        <GridView
+            android:layout_below="@id/Toolbar"
+            android:id="@+id/Artists_Albums"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:columnWidth="150dp"
+            android:numColumns="2"
+            android:verticalSpacing="12dp"
+            android:horizontalSpacing="5dp"
+            android:stretchMode="spacingWidthUniform">
+        </GridView>
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
